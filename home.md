@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Check List
+description: Browse data on GBIF associated with publications in Check List
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Syafiq MF, Badli-Sham BH, Aqmal-Naser M, Fahmi-Ahmad M, Quah ESH, Grismer LL, Ahmad AB (2025) First checklist of the herpetofauna (Amphibia, Reptilia) of the Kapas and Gemia Islands, Peninsular Malaysia, South China Sea. Check List 21 (2): 268–281. [https://doi.org/10.15560/21.2.268](https://doi.org/10.15560/21.2.268)"
 height: 75vh
 cta:
   - text: Datasets
